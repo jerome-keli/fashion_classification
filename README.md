@@ -31,8 +31,8 @@ The Fashion-MNIST dataset contains:
 - **Training Loss:** 0.0948
 - **Validation Loss:** 0.2959
 
-### 🎯 Key Observations:
+### Key Observations:
 - Consistent increase in both training and validation accuracy over epochs.
 - Minimal overfitting indicated by the small gap between training and validation accuracy.
-- Visual predictions align well with actual labels, with few misclassifications.
+- Visual predictions align well with actual labels with few misclassifications.
 
